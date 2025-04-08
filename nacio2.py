@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # Configuración inicial
-excel_path = r"C:\Users\fhamedh\Desktop\nacio.xlsx"
+excel_path = "nacio.xlsx"
 individual_sheets = [
     'AMBA 2019', 'AMBA 2022', 'EMBA 2018 FDS', 'EMBA JULIO 2018',
     'EMBA FDS 2020', 'EMBA 3X3 2020', 'EMBA 3X3 2021',
